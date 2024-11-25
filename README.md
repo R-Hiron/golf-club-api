@@ -21,7 +21,7 @@
 
 ### 1. Clone the Repository
    ```bash
-   git clone https://github.com/rhiron/golf-club-api.git
+   git clone https://github.com/R-Hiron/golf-club-api.git
    cd golf-club-api
    ```
 ### 2. Build the Application
